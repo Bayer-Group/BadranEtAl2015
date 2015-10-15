@@ -1,0 +1,35 @@
+Sample.Abbrev	Desc	Time	Condition
+045	0hrs_TBR3m / low stringency_Cellstat1	0	Initial
+001	12hrs_TBR3m / low stringency_Cellstat1	12	Low_Mut
+002	24hrs_TBR3m / low stringency_Cellstat1	24	Low_Mut
+003	36hrs_TBR3m / low stringency_Cellstat1	36	Low_Mut
+004	48hrs_TBR3m / low stringency_Cellstat1	48	Low_Mut
+005	60hrs_TBR3m / low stringency_Cellstat1	60	Low_Mut
+006	72hrs_TBR3m / low stringency_Cellstat1	72	Low_Mut
+007	84hrs_TBR3m / low stringency_Cellstat1	84	Low_Mut
+008	96hrs_TBR3m / low stringency_Cellstat1	96	Low_Mut
+009	108hrs_TBR3m / low stringency_Cellstat1	108	Low_Mut
+010	120hrs_TBR3m / low stringency_Cellstat1	120	Low_Mut
+011	132hrs_TBR3m / low stringency_Cellstat1	132	Low_Mut
+012	144hrs_TBR3m / low stringency_Cellstat1	144	Low_Mut
+013	156hrs_TBR3m / medium stringency_Cellstat1	156	Med_Mut
+014	168hrs_TBR3m / medium stringency_Cellstat1	168	Med_Mut
+015	180hrs_TBR3m / medium stringency_Cellstat1	180	Med_Mut
+016	192hrs_TBR3m / medium stringency_Cellstat1	192	Med_Mut
+017	204hrs_TBR3m / medium stringency_Cellstat1	204	Med_Mut
+018	216hrs_TBR3m / medium stringency_Cellstat1	216	Med_Mut
+019	228hrs_TBR3m / medium stringency_Cellstat1	228	Med_Mut
+020	240hrs_TBR3m / medium stringency_Cellstat1	240	Med_Mut
+021	264hrs_TBR3m / medium stringency_Cellstat1	264	Med_Mut
+022	276hrs_TBR3m / medium stringency_Cellstat1	276	Med_Mut
+023	300hrs_TBR3 WT / low stringency_Cellstat1	300	Low_WT
+024	324hrs_TBR3 WT / low stringency_Cellstat1	324	Low_WT
+025	348hrs_TBR3 WT / low stringency_Cellstat1	348	Low_WT
+026	372hrs_TBR3 WT / low stringency_Cellstat1	372	Low_WT
+027	396hrs_TBR3 WT / low stringency_Cellstat1	396	Low_WT
+033	408hrs_TBR3 WT / high stringency_Cellstat1	408	High_WT
+034	432hrs_TBR3 WT / high stringency_Cellstat1	432	High_WT
+035	456hrs_TBR3 WT / high stringency_Cellstat1	456	High_WT
+036	480hrs_TBR3 WT / high stringency_Cellstat1	480	High_WT
+037	504hrs_TBR3 WT / high stringency_Cellstat1	504	High_WT
+038	528hrs_TBR3 WT / high stringency_Cellstat1	528	High_WT
