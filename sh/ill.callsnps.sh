@@ -1,7 +1,7 @@
 #!/bin/bash
 # Map reads to phage genome
 numcpu=$1
-for sample in `ls reads.ill | grep R1 | sed 's/_R1\.fastq//g'`
+for sample in `ls reads.ill | grep R1 | sed 's/\.R1\.fastq//g'`
 do
 	bowtie2 -p $numcpu --maxins 8326 -x SP055-rpoZ-cMyc-Cry1Ac1-d123 -1 reads.ill/${sample}_R1.fastq -2 reads.ill/${sample}_R2.fastq -S map.ill/$sample.sam
 done
